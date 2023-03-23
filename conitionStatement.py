@@ -38,4 +38,10 @@ while c:
    # output 5 4 3 2 1 
    #this is works becoz this expression run still bool(0): false
 
+while True:
+   response = input()
+   if int(response) % 7 == 0:
+      break
+   #breaks when input will be divisible by 7 and remaining will be 0
+   
 
