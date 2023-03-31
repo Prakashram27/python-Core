@@ -95,3 +95,9 @@ c= [6,10,6]
 e = f(c)
 print(c is e) # True
 
+
+
+#everything is object in python
+
+
+
