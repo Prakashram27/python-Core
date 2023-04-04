@@ -22,6 +22,7 @@ k = int(input("Enter a Number"))
 
 try:
     fh = open("testfile", "w")
+    print('a')
     print(a/k)
 except ZeroDivisionError as e:
     print('Cannot divide a number by Zero',e)
@@ -56,6 +57,8 @@ finally:
 
 # if x < 0:
 #   raise Exception("Sorry, no numbers below zero")
+
+
 
 
 
