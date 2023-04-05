@@ -20,4 +20,3 @@ print(r[-0]) #1 #same as r[0]
 # reverse()	Reverses the order of the list
 # sort()	Sorts the list
 
-print(r.count())
