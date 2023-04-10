@@ -1,0 +1,17 @@
+Account opened for Alice
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 200 made. Current balance is 1300
+Deposit of 500 made. Current balance is 1800
+Withdrawal of 200 made. Current balance is 1600
+Account opened for Alice
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 200 made. Current balance is 1300
+Deposit of 500 made. Current balance is 1800
+Withdrawal of 200 made. Current balance is 1600
+Withdrawal of 200 made. Current balance is 1400
+Account opened for Prakash Ramu
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 200 made. Current balance is 1300
+Deposit of 500 made. Current balance is 1800
+Withdrawal of 200 made. Current balance is 1600
+Withdrawal of 200 made. Current balance is 1400

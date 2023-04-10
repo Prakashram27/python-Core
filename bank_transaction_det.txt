@@ -1,0 +1,20 @@
+Account opened for Prakash
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 1000 made. Current balance is 500
+Account opened for Prakash
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 1000 made. Current balance is 500
+Account opened for Prakash Ramu
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 1000 made. Current balance is 500
+Account opened for Prakash Ramu
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 1000 made. Current balance is 500
+Account opened for Prakash Ramu
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 1000 made. Current balance is 500
+Deposit of 5.0 made. Current balance is 505.0
+Account opened for Prakash Ramu
+Deposit of 500 made. Current balance is 1500
+Withdrawal of 1000 made. Current balance is 500
+Deposit of 5.0 made. Current balance is 505.0

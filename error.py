@@ -1,0 +1,1 @@
+import opencv_jupyter_ui as jcv2
